@@ -1,4 +1,4 @@
-package com.softtech.app.config.security.authSecurity;
+package com.softtech.app.config.security;
 
 import io.jsonwebtoken.ExpiredJwtException;
 import org.springframework.beans.factory.annotation.Autowired;

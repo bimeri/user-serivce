@@ -1,4 +1,4 @@
-package com.softtech.app.config.security.authSecurity;
+package com.softtech.app.config.security;
 
 import com.softtech.app.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;

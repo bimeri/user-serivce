@@ -1,4 +1,4 @@
-package com.softtech.app.config.security.authSecurity;
+package com.softtech.app.config.security;
 
 import org.springframework.security.core.AuthenticationException;
 import org.springframework.security.web.AuthenticationEntryPoint;

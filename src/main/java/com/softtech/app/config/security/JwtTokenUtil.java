@@ -1,4 +1,4 @@
-package com.softtech.app.config.security.authSecurity;
+package com.softtech.app.config.security;
 
 import com.softtech.app.utils.Constant;
 import io.jsonwebtoken.Claims;

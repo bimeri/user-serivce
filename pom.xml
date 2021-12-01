@@ -17,19 +17,10 @@
 		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
-		<!--<dependency>-->
-			<!--<groupId>org.springframework.boot</groupId>-->
-			<!--<artifactId>spring-boot-starter-data-rest</artifactId>-->
-		<!--</dependency>-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
-		<!--<dependency>-->
-			<!--<groupId>io.jsonwebtoken</groupId>-->
-			<!--<artifactId>jjwt-api</artifactId>-->
-			<!--<version>0.11.2</version>-->
-		<!--</dependency>-->
 		<dependency>
 			<groupId>org.eclipse.persistence</groupId>
 			<artifactId>javax.persistence</artifactId>
@@ -81,21 +72,6 @@
 			<artifactId>commons-validator</artifactId>
 			<version>1.4.1</version>
 		</dependency>
-		<!--<dependency>-->
-			<!--<groupId>mysql</groupId>-->
-			<!--<artifactId>mysql-connector-java</artifactId>-->
-		<!--</dependency>-->
-<!--		<dependency>-->
-<!--			<groupId>io.jsonwebtoken</groupId>-->
-<!--			<artifactId>jjwt-api</artifactId>-->
-<!--			<version>0.11.2</version>-->
-<!--		</dependency>-->
-<!--		<dependency>-->
-<!--			<groupId>io.jsonwebtoken</groupId>-->
-<!--			<artifactId>jjwt-impl</artifactId>-->
-<!--			<version>0.11.2</version>-->
-<!--			<scope>runtime</scope>-->
-<!--		</dependency>-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-configuration-processor</artifactId>

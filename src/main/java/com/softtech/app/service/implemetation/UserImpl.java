@@ -1,7 +1,7 @@
 package com.softtech.app.service.implemetation;
 
-import com.softtech.app.config.security.authSecurity.JwtTokenUtil;
-import com.softtech.app.config.security.authSecurity.JwtUserDetailsService;
+import com.softtech.app.config.security.JwtTokenUtil;
+import com.softtech.app.config.security.JwtUserDetailsService;
 import com.softtech.app.dto.FullNameDto;
 import com.softtech.app.dto.JwtDto;
 import com.softtech.app.dto.LoginRequestDto;
